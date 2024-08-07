@@ -1,4 +1,5 @@
-EnquiryVault
+**EnquiryVault**
+
 EnquiryVault is a robust web application designed to manage user authentication and inquiries efficiently. It features a comprehensive user management system, including login, signup, password recovery, and change password functionalities, alongside a seamless inquiry form that sends emails using EmailJS.
 
 Key Features:
