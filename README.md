@@ -1,3 +1,20 @@
+EnquiryVault
+EnquiryVault is a robust web application designed to manage user authentication and inquiries efficiently. It features a comprehensive user management system, including login, signup, password recovery, and change password functionalities, alongside a seamless inquiry form that sends emails using EmailJS.
+
+Key Features:
+User Authentication: Secure and intuitive login and signup processes.
+Password Management: Easily recover or change your password.
+Responsive Inquiry Form: Submit inquiries with ease, powered by EmailJS.
+Responsive Design: Accessible across various devices for optimal user experience.
+Tech Stack:
+Frontend: React.js
+Email Service: EmailJS
+Usage:
+Explore the app to experience streamlined user authentication and efficient inquiry handling.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
